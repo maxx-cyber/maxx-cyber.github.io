@@ -1,7 +1,8 @@
 {
 	"authsrv": {
 		"apps": [
-			"W8M2C9P2R6.com.mobileiron.enterprise.mkotov.TestSSOExtension"
+			"W8M2C9P2R6.com.mobileiron.enterprise.mkotov.TestSSOExtension",
+			"U2564F8MU2.com.mobileiron.enterprise.phoneatwork"
 		]
 	}
 }
